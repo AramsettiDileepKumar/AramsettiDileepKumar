@@ -25,7 +25,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/AramsettiDileepKumar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AramsettiDileepKumar" /></a><a href="https://ko-fi.com/NA"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="NA" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aramsttidileepkumar&show_icons=true&locale=en&layout=compact" alt="aramsttidileepkumar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AramsettiDileepKumar&show_icons=true&locale=en&layout=compact" alt="AramsettiDileepKumar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AramsettiDileepKumar&show_icons=true&locale=en" alt="AramsettiDileepKumar" /></p>
 
